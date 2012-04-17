@@ -1,0 +1,10 @@
+set number
+set encoding=utf-8
+set tabstop=4
+set softtabstop=4
+set expandtab
+set nowrap
+set autoindent
+set list
+set showmatch
+colorscheme desert
