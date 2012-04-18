@@ -5,6 +5,5 @@ set softtabstop=4
 set expandtab
 set nowrap
 set autoindent
-set list
 set showmatch
 colorscheme desert
